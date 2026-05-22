@@ -71,3 +71,14 @@ This project successfully demonstrates the use of machine learning and recommend
 
 ## Author
 P.Bhanu
+
+## Dashboard Screenshots
+
+### Recommendation System
+![Dashboard](screenshots/yourimage.png)
+
+## Project Presentation
+Presentation available in presentation folder.
+
+## Project Report
+Detailed report available in report folder.
